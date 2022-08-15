@@ -21,7 +21,7 @@ const Projects = props => {
             title="Security & Transport"
             img={MsgBoardImg}
             tech="js css react node"
-            link="https://yagoestevez-anon-msg-board.glitch.me/"
+            link=""
             repo="https://github.com/yagoestevez/anonymous-message-board"
           >
             <p>
@@ -33,7 +33,7 @@ I also want to address the ongoing transportation problem as many people must co
             title="Cleanliness & Hygiene"
             img={StockPriceImg}
             tech="js node css"
-            link="https://yagoestevez-stock-price-checker.glitch.me/"
+            link=""
             repo="https://github.com/yagoestevez/fcc-stock-price-checker"
           >
             <p>
@@ -46,7 +46,7 @@ There is always a shortage of soap in washrooms. I will ensure such a problem do
             title="Better Hostel Amenities"
             img={PersonalLibraryImg}
             tech="js node css"
-            link="https://yagoestevez-personal-library.glitch.me/"
+            link=""
             repo="https://github.com/yagoestevez/fcc-personal-library"
           >
             <p>
@@ -58,7 +58,7 @@ Purified water is an indispensable need of any student, and I’ll ensure it is 
             title="Canteens & Cafe's"
             img={IssueTrackerImg}
             tech="js node css"
-            link="https://yagoestevez-issue-tracker.glitch.me/"
+            link=""
             repo="https://github.com/yagoestevez/fcc-issue-tracker"
           >
             
@@ -71,7 +71,7 @@ I will also see to the opening of other cafeterias on par with our beloved LC so
             title="Common Room & Mess Refund"
             img={MIConverterImg}
             tech="js node css"
-            link="https://yagoestevez-metric-imperial-converter.glitch.me/"
+            link=""
             repo="https://github.com/yagoestevez/fcc-metric-imperial-converter/"
           >
             
