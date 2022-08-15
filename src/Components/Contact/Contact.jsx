@@ -14,7 +14,7 @@ const Contact = props => {
             </p>
             <p className="separator" />
             <p className="subtitle">
-              You can contact me <a href="mailto:@11utkarsh2002@gmail.com"> @ This Email </a>
+              You can contact me <a href="mailto:11utkarsh2002@gmail.com"> @ This Email </a>
  
             </p>
           </div>
