@@ -22,7 +22,7 @@ const Projects = props => {
             img={MsgBoardImg}
             tech="js css react node"
             link=""
-            repo="https://github.com/yagoestevez/anonymous-message-board"
+            repo=""
           >
             <p>
             Security has been a pressing issue on our campus lately. I want to address this problem by increasing proctoring and ensuring that proper barricading is done at all vulnerable and necessary checkpoints.
@@ -34,7 +34,7 @@ I also want to address the ongoing transportation problem as many people must co
             img={StockPriceImg}
             tech="js node css"
             link=""
-            repo="https://github.com/yagoestevez/fcc-stock-price-checker"
+            repo=""
           >
             <p>
             The issue of hygiene and cleanliness can never be more emphasized. There has been a sudden surge in the number of students getting sick. I will ensure that all the hostels will clean regularly and the water coolers will be cleaned monthly.
@@ -47,7 +47,7 @@ There is always a shortage of soap in washrooms. I will ensure such a problem do
             img={PersonalLibraryImg}
             tech="js node css"
             link=""
-            repo="https://github.com/yagoestevez/fcc-personal-library"
+            repo=""
           >
             <p>
             A college student might live without food but won't survive without internet connectivity. Recently an issue has arisen regarding the disconnection of devices. Such problems create a standstill in a student's work. I assure everyone that upon coming to power, I will see that this problem never arises again and will also work to improve the connectivity. 
@@ -59,7 +59,7 @@ Purified water is an indispensable need of any student, and I’ll ensure it is 
             img={IssueTrackerImg}
             tech="js node css"
             link=""
-            repo="https://github.com/yagoestevez/fcc-issue-tracker"
+            repo=""
           >
             
             <p>Cafes are meeting places for various groups and people of all hostels and departments such places should never go mundane. Such places should always be bustling with excitement.
@@ -72,7 +72,7 @@ I will also see to the opening of other cafeterias on par with our beloved LC so
             img={MIConverterImg}
             tech="js node css"
             link=""
-            repo="https://github.com/yagoestevez/fcc-metric-imperial-converter/"
+            repo=""
           >
             
             <p>
