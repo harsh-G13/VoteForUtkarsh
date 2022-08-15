@@ -7,7 +7,7 @@ const About = props => {
       <div className="wrapper">
         <article>
           <div className="title">
-            <h3>Who's this guy?</h3>
+            <h3>About Me</h3>
             <p className="separator" />
           </div>
           <div className="desc full">
