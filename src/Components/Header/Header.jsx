@@ -16,7 +16,7 @@ const Header = props => {
             <span className="color line"></span> 
         </h1>
         <div className="buttons">
-          <a href="#projects">my portfolio</a>
+          <a href="#projects">my agenda</a>
           <a href="#contact" className="cta">
             get in touch
           </a>
