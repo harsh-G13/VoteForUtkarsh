@@ -51,7 +51,7 @@ There is always a shortage of soap in washrooms. I will ensure such a problem do
           >
             <p>
             A college student might live without food but won't survive without internet connectivity. Recently an issue has arisen regarding the disconnection of devices. Such problems create a standstill in a student's work. I assure everyone that upon coming to power, I will see that this problem never arises again and will also work to improve the connectivity. 
-Purified water is an indispensable need of any student, and I’ll ensure it is fulfilled by getting an adequate number of RO water coolers installed on all floors of all hostels. I will also ensure that these water coolers are cleaned and maintained to ensure the proper working of these way=ter coolers.
+Purified water is an indispensable need of any student, and I’ll ensure it is fulfilled by getting an adequate number of RO water coolers installed on all floors of all hostels. I will also ensure that these water coolers are cleaned and maintained to ensure the proper working of these water coolers.
  </p>
           </Project>
           <Project
